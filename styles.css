@@ -1,0 +1,57 @@
+.home{
+  background-image: url(paper.jpg);
+  background-size: cover;
+}
+
+.people{
+  background-image: url(paper.jpg);
+  background-size: cover;
+}
+
+.companies{
+  background-image: url(paper.jpg);
+  background-size: cover;
+}
+
+.button1 {
+	background-color:#f01313;
+	border-radius:28px;
+	border:1px solid #ffffff;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:25px;
+	padding:150px 230px;
+	text-decoration:underline;
+	text-shadow:0px 1px 0px #000000;
+}
+.button1:hover {
+	background-color:#8f1111;
+}
+.button1:active {
+	position:relative;
+	top:1px;
+}
+
+.button2 {
+	background-color:green;
+	border-radius:28px;
+	border:1px solid #ffffff;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:25px;
+	padding: 150px 230px;
+	text-decoration:underline;
+	text-shadow:0px 1px 0px #000000;
+  float: right;
+}
+.button2:hover {
+	background-color:darkgreen;
+}
+.button2:active {
+	position:relative;
+	top:1px;
+}
